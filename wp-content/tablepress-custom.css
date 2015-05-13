@@ -1,0 +1,15 @@
+.tablepress thead th,
+.tablepress tfoot th {
+	background-color: black;
+	color: gray;
+}
+
+.tablepress .odd td {
+	background-color: lightgray;
+	color: black;
+}
+
+.tablepress .even td {
+	background-color: darkgray;
+	color: black;
+}
